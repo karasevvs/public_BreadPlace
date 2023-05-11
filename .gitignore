@@ -1,0 +1,6 @@
+.idea
+__pycache__/
+logs.txt
+successful_logs.txt
+error_logs.txt
+DB_BreadPlace
